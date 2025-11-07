@@ -1,75 +1,21 @@
-# React + TypeScript + Vite
+# LOGIN PAGE
+<img width="1908" height="932" alt="Screenshot 2025-11-07 222223" src="https://github.com/user-attachments/assets/a51e41c6-87bf-44ba-abba-aeee314b99b7" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# REGISTER
+<img width="1910" height="938" alt="Screenshot 2025-11-07 222237" src="https://github.com/user-attachments/assets/a417640e-4e89-4075-a398-202b6968954e" />
 
-Currently, two official plugins are available:
+# HOME PAGE 
+<img width="1911" height="912" alt="Screenshot 2025-11-07 222257" src="https://github.com/user-attachments/assets/a477246d-5653-4607-93ef-9985c580217f" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# GENRE PAGE
+<img width="1911" height="932" alt="Screenshot 2025-11-07 222420" src="https://github.com/user-attachments/assets/1dbfc314-3241-4b9e-9f12-2c6d39d2a944" />
 
-## React Compiler
+# BOOKS PAGE
+<img width="1914" height="920" alt="Screenshot 2025-11-07 222315" src="https://github.com/user-attachments/assets/1ea16d38-eceb-4baa-8caf-f9e5d56b69e1" />
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+<img width="1916" height="919" alt="Screenshot 2025-11-07 222329" src="https://github.com/user-attachments/assets/d14c5c45-55fb-4c46-ba6a-beac762c6634" />
 
-Note: This will impact Vite dev & build performances.
+# TRANSACTION PAGE
+<img width="1911" height="919" alt="Screenshot 2025-11-07 222344" src="https://github.com/user-attachments/assets/002d1a02-e94e-44e1-8bec-0f895e6dfa5e" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<img width="1911" height="918" alt="Screenshot 2025-11-07 222402" src="https://github.com/user-attachments/assets/36d73b57-e21d-4372-9b75-9a553de48c67" />
