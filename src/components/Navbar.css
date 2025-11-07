@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap'); /* TAG: font magis Cinzel */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, #2b1a2f, #1a1a2b); /* nuansa misterius */
+  color: #fdf6e3;
+  padding: 12px 24px;
+  font-family: 'Cinzel', serif;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.6);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fdf6e3;
+  text-shadow: 2px 2px 5px #000;
+  transition: transform 0.3s, color 0.3s;
+}
+
+.nav-logo:hover {
+  color: #ffd700;
+  transform: scale(1.1) rotate(-2deg);
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #fdf6e3;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+.nav-item:hover {
+  color: #ffcc00;
+  text-shadow: 0 0 8px #ffcc00;
+}
+
+.logout-btn {
+  background-color: #a83232;
+  border: none;
+  color: #fdf6e3;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.logout-btn:hover {
+  background-color: #ff4d4d;
+  box-shadow: 0 0 8px #ff4d4d;
+}
