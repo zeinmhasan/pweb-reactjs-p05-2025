@@ -26,4 +26,8 @@
 # REVISI BOOK DETAIL
 <img width="793" height="878" alt="image" src="https://github.com/user-attachments/assets/57354534-3b29-41b8-9674-3b6e2176d682" />
 
+# REVISI GET TRANSACTION DETAIL
+<img width="1191" height="878" alt="image" src="https://github.com/user-attachments/assets/7764bc81-6b15-41ea-9e2f-a4c8ec94961a" />
+
+
 
