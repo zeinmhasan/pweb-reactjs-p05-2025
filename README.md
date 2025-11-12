@@ -23,3 +23,7 @@
 # REVISI HOMEPAGE USERNAME DI NAVBAR
 <img width="923" height="866" alt="image" src="https://github.com/user-attachments/assets/c4b35d77-bcd5-463e-821b-830b1715ef1f" />
 
+# REVISI BOOK DETAIL
+<img width="793" height="878" alt="image" src="https://github.com/user-attachments/assets/57354534-3b29-41b8-9674-3b6e2176d682" />
+
+
