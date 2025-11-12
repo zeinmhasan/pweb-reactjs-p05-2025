@@ -19,3 +19,7 @@
 <img width="1911" height="919" alt="Screenshot 2025-11-07 222344" src="https://github.com/user-attachments/assets/002d1a02-e94e-44e1-8bec-0f895e6dfa5e" />
 
 <img width="1911" height="918" alt="Screenshot 2025-11-07 222402" src="https://github.com/user-attachments/assets/36d73b57-e21d-4372-9b75-9a553de48c67" />
+
+# REVISI HOMEPAGE USERNAME DI NAVBAR
+<img width="923" height="866" alt="image" src="https://github.com/user-attachments/assets/c4b35d77-bcd5-463e-821b-830b1715ef1f" />
+
